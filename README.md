@@ -7,7 +7,7 @@ This project aims to classify the sentiment of tweets as positive, negative, or 
 A Twitter Sentiment Analysis project using a Long Short-Term Memory (LSTM) model would involve preprocessing the tweets data to extract features, such as removing stop words, stemming, and converting words to numerical representations. The processed data would then be fed into the LSTM model, which is a type of Recurrent Neural Network (RNN) designed to capture long-term dependencies in sequential data. The LSTM model would then classify the tweets into positive, negative, or neutral sentiments based on the trained weights.
 ## Demo
 
-link
+https://github.com/malikjanattar/Twitter-Sentiment-Analysis/blob/main/ezgif.com-crop-twitter.mp4?raw=true
 
 
 ## Scenario
